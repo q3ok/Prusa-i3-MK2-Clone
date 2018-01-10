@@ -151,12 +151,17 @@ translate( [ 72.7 , 43.2 , 14 ] ) cylinder( h = 1, r1 = 1.4, r2=2, $fn=30);
 translate( [ -72.5 , 42.7 , 14 ] ) cylinder( h = 1, r = 1.4, r2=2, $fn=30); 
 
 
-// ORIGINAL PRUSA text
-translate([-71,52,0.6]) rotate([180,0,0]) linear_extrude(height = 2) 
-{ text("notORIGINAL",font = "helvetica:style=Bold", size=6, center=true); }
+translate([-23,52,0.6]) rotate([180,0,0]) linear_extrude(height = 2) 
+{ text("r2",font = "helvetica:style=Bold", size=3, center=true); }
+
+translate([-65,51,0.6]) rotate([180,0,0]) linear_extrude(height = 2) 
+{ text("MK2 Clone",font = "helvetica:style=Bold", size=6, center=true); }
 
 translate([-18,52,0.6]) rotate([180,0,0]) linear_extrude(height = 2) 
-{ text("PRUSA",font = "helvetica:style=Bold", size=11, center=true); }
+{ text("i3",font = "helvetica:style=Bold", size=10, center=true); }
+
+translate([-5,52,0.6]) rotate([180,0,0]) linear_extrude(height = 2) 
+{ text("by q3ok",font = "helvetica:style=Bold", size=8, center=true); }
 
 translate( [ -66 , 41.5 , -0.4 ] )  cube( [ 45 , 1.6 , 1 ] );  
 translate( [ -66 , 42.3 , -0.4 ] ) cylinder( h = 1, r = 0.8, $fn=30);  
