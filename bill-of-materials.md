@@ -1,4 +1,4 @@
-#### Printed plastic parts
+## Printed plastic parts
 ### Y-axis
 - 1x y-axis-front
 - 1x y-axis-rear
@@ -36,7 +36,7 @@
 ### Other
 - 1x spool-holder
 
-#### Metal parts
+## Metal parts
 - 2x Threaded rod M10x430mm (property class 8.8 or higher)
 - 2x Threaded rod M8x210mm (property class 8.8 or higher)
 - 2x Threaded rod M8x330mm (property class 8.8 or higher)
@@ -66,7 +66,7 @@
 - 6x M3x12 screw (need to recheck)
 - 16x M3x10 screw (need to recheck)
 
-#### Electronics
+## Electronics
 
 ### Power supply
 - 1x IEC C14 plug inlet (with fuse and switch)
@@ -100,7 +100,7 @@
 - 2x 70cm IDC 10 pin cable (for LCD)
 - 4x 3pin ramps connector cables (2x for microswitches, 1x for Z probe, 1x for optical sensor)
 
-#### Other
+## Other
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend (with thermistor and heater)
 - 2x GT2 belt (5m will be more than enough, exact size to be defined)
@@ -110,7 +110,7 @@
 - (optional) 1x nylon filament dia 3mm, 50cm length (need to recheck)
 - (optional) 2x spiral wrap (need to recheck)
 
-#### Tools needed
+## Tools needed
 - soldering iron
 - small pliers
 - flatheat screwdriver (~3,6mm)
