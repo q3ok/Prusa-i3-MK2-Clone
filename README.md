@@ -3,12 +3,15 @@
 
 In this repository you will find:
  * frame cut drawing (to be cut from 10mm width material, eg. plywood)
- * printer parts needed to build
+ * printed parts needed
  * configuration for Marlin 1.1.8
  * printing profiles for Slic3r PE
 
 ##### Bill of materials: (applicable for r1)
 https://prusaclone.wordpress.com/bill-of-materials/
+
+##### Assembly guide
+https://mk2clone.dozuki.com/c/MK2Clone_r2_assembly_guide
 
 ##### More informations
 https://prusaclone.wordpress.com/
