@@ -17,7 +17,7 @@
 - 1x Z-axis-bottom
 
 ### Extruder
-- 1x extruder-body (ABS suggested)
+- 1x extruder-body (black ABS suggested)
 - 1x extruder-idler (ABS suggested)
 - 1x extruder-cover (ABS suggested)
 - 1x fan-nozzle (ABS suggested)
@@ -47,7 +47,7 @@
 - 1x 625ZZ or 625 2RS bearing
 - 2x GT2-16 idler pulley (bore 3mm)
 - 2x GT2-16 pulley
-- 1x MK8 pulley
+- 1x MK8 pulley (drive gear)
 - 6x Spring dia. ~4,8mm, length 8mm (need to recheck)
 
 ### Screws, nuts and washers
@@ -82,16 +82,16 @@
 - 1x LJ8A3-2-Z/BX-5V sensor
 
 ### Base electronics
-- 1x Arduino Mega 2560 (recommended from RobotDyn or Original)
+- 1x Arduino Mega 2560 (recommended from RobotDyn or original Arduino)
 - 1x RAMPS 1.4 (recommended from RobotDyn)
-- 5x TMC2100/TMC2208/TMC2130 motor driver (to be defined, but for sure r3 will use TMC2130)
+- 5x TMC2130 stepper motor driver (from FYSETC or Watterott /more expensive/)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion
 - 1x Heatbed (to be defined)
 
 ### Cooling
-- 1x SUNON MF50151V1-B00U-A99 (5015 turbine fan)
+- 1x SUNON MF50151V1-B00U-A99 (50x50x15 turbine fan)
 - 1x SUNON MC30101V2-000U-A99 (30x30x10 fan)
-- 1x SUNON HA50151V4-000U-999 (50x50 fan)
+- 1x SUNON HA50151V4-000U-999 (50x50x15 fan)
 
 ### Cables
 - 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC)
