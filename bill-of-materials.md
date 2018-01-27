@@ -17,7 +17,7 @@
 - 1x Z-axis-bottom
 
 ### Extruder
-- 1x extruder-body (black ABS suggested)
+- 1x extruder-body (ABS suggested)
 - 1x extruder-idler (ABS suggested)
 - 1x extruder-cover (ABS suggested)
 - 1x fan-nozzle (ABS suggested)
@@ -29,8 +29,8 @@
 - 1x lcd-support-A
 - 1x lcd-support-B
 - 4x lcd-cable-clip
-- 1x electronics-cover-base
-- 1x electronics-cover-top
+- 1x electronics-cover-base (ABS suggested)
+- 1x electronics-cover-top (ABS suggested)
 - 1x power-supply-cover (ABS suggested)
 
 ### Other
@@ -38,17 +38,17 @@
 
 ## Metal parts
 - 2x Threaded rod M10x430mm (property class 8.8 or higher)
-- 2x Threaded rod M8x210mm (property class 8.8 or higher)
 - 2x Threaded rod M8x330mm (property class 8.8 or higher)
-- 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6)
+- 2x Threaded rod M8x210mm (property class 8.8 or higher)
 - 2x linear shaft Φ8 400mm (hardened steel, HRC >60, tolerance 8h6)
+- 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6)
 - 2x linear shaft Φ8 320mm (hardened steel, HRC >60, tolerance 8h6)
 - 11x ball bearing LM8UU
 - 1x 625ZZ or 625 2RS bearing
 - 2x GT2-16 idler pulley (bore 3mm)
-- 2x GT2-16 pulley
-- 1x MK8 pulley (drive gear)
-- 6x Spring dia. ~4,8mm, length 8mm (need to recheck)
+- 2x GT2-16 pulley (bore 5mm)
+- 1x MK8 pulley (drive gear, bore 5mm)
+- 6x Spring dia. ~4,8mm, length 8mm (need to recheck, two will be for sure)
 
 ### Screws, nuts and washers
 - 14x M10 nut (DIN 934)
@@ -82,11 +82,11 @@
 - 1x LJ8A3-2-Z/BX-5V sensor
 
 ### Base electronics
-- 1x Arduino Mega 2560 (recommended from RobotDyn or original Arduino)
-- 1x RAMPS 1.4 (recommended from RobotDyn)
-- 5x TMC2130 stepper motor driver (from FYSETC or Watterott /more expensive/)
+- 1x Arduino Mega 2560
+- 1x RAMPS 1.4
+- 5x TMC2208 stepper motor driver (from FYSETC or Watterott /more expensive/)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion
-- 1x Heatbed (to be defined)
+- 1x Heatbed (to be defined, probably chinese clone of MK42)
 
 ### Cooling
 - 1x SUNON MF50151V1-B00U-A99 (50x50x15 turbine fan)
@@ -104,11 +104,11 @@
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend (with thermistor and heater)
 - 2x GT2 belt (5m will be more than enough, exact size to be defined)
-- 1x Adhesive sticker (??? to be defined, depends on heatbed)
-- (at least) 12x zipties (need to recheck)
-- (optional) 4x felt pad (need to recheck)
-- (optional) 1x nylon filament dia 3mm, 50cm length (need to recheck)
-- (optional) 2x spiral wrap (need to recheck)
+- 1x Adhesive sticker (to be defined, depends on heatbed, probably sheet of PEI)
+- (at least) 12x zipties (need to recheck, probably more)
+- (optional) 4x felt pad (probably more - not only for the corners)
+- (optional) 1x nylon filament dia 3mm, 50cm length (need to recheck the lengths or for something easier to get)
+- (optional) 3x spiral wrap (need to recheck the lengths)
 
 ## Tools needed
 - soldering iron
