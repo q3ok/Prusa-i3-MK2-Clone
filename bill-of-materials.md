@@ -48,7 +48,7 @@
 - 2x GT2-16 idler pulley (bore 3mm)
 - 2x GT2-16 pulley (bore 5mm)
 - 1x MK8 pulley (drive gear, bore 5mm)
-- 6x Spring dia. ~4,8mm, length 8mm (need to recheck, two will be for sure)
+- 2x Spring dia. ~4,8mm, length 8mm
 
 ### Screws, nuts and washers
 - 14x M10 nut (DIN 934)
@@ -84,9 +84,9 @@
 ### Base electronics
 - 1x Arduino Mega 2560
 - 1x RAMPS 1.4
-- 5x TMC2208 stepper motor driver (from FYSETC or Watterott /more expensive/)
+- 5x TMC2208 stepper motor driver
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion
-- 1x Heatbed (to be defined, probably chinese clone of MK42)
+- 1x Aluminium MK42 chinese clone (with cables, thermistor, screws, pillars and PEI sheet)
 
 ### Cooling
 - 1x SUNON MF50151V1-B00U-A99 (50x50x15 turbine fan)
@@ -104,7 +104,6 @@
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend (with thermistor and heater)
 - 2x GT2 belt (5m will be more than enough, exact size to be defined)
-- 1x Adhesive sticker (to be defined, depends on heatbed, probably sheet of PEI)
 - (at least) 12x zipties (need to recheck, probably more)
 - (optional) 4x felt pad (probably more - not only for the corners)
 - (optional) 1x nylon filament dia 3mm, 50cm length (need to recheck the lengths or for something easier to get)
