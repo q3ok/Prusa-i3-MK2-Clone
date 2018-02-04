@@ -84,7 +84,8 @@
 ### Base electronics
 - 1x Arduino Mega 2560
 - 1x RAMPS 1.4
-- 5x TMC2208 stepper motor driver
+- 4x TMC2208 stepper motor driver
+- 1x A4988 stepper motor driver (extruder)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion
 - 1x Aluminium MK42 chinese clone (with cables, thermistor, screws, pillars and PEI sheet)
 
