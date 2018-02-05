@@ -1,15 +1,12 @@
-# MK2 Clone r2 - 3D Printer
-![MK2 Clone photo](https://prusaclone.files.wordpress.com/2017/12/imag3101.jpg?w=500)
+# MK2 Clone - 3D Printer
 
-In this repository you will find:
- * frame cut drawing (to be cut from 10mm width material, eg. plywood)
- * printed parts needed
- * bill of materials
- * configuration for Marlin 1.1.8
- * printing profiles for Slic3r PE
+If you are looking for current one - MK2Clone r2, follow this link:
+https://github.com/q3ok/Prusa-i3-MK2-Clone/tree/r2
 
-##### Assembly guide
-https://mk2clone.dozuki.com/c/MK2Clone_r2_assembly_guide
+
+If you are looking for the first, older one - r1, follow this link:
+https://github.com/q3ok/Prusa-i3-MK2-Clone/tree/r1
+
 
 ##### More informations
 https://prusaclone.wordpress.com/
