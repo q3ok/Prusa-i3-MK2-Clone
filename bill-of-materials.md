@@ -43,7 +43,7 @@
 - 2x linear shaft Φ8 400mm (hardened steel, HRC >60, tolerance 8h6)
 - 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6)
 - 2x linear shaft Φ8 320mm (hardened steel, HRC >60, tolerance 8h6)
-- 11x ball bearing LM8UU
+- 11x ball bearing LM8UU (make sure the bearings doesnt have any looseness, it's very important, always check them on your linear shafts)
 - 1x 625ZZ or 625 2RS bearing
 - 2x GT2-16 idler pulley (bore 3mm)
 - 2x GT2-16 pulley (bore 5mm)
@@ -51,18 +51,20 @@
 - 2x Spring dia. ~4,8mm, length 8mm
 
 ### Screws, nuts and washers
+- 2x Trapezoidal nut for Tr8x8 (should be supplied with the stepper motors with integrated screw, but make sure that there is no looseness)
 - 14x M10 nut (DIN 934)
 - 12x M10 washer
 - 16x M8 nut (DIN 934)
 - 16x M8 washer
-- 9x M3 self-locking nut (need to recheck)
+- 18x M3 self-locking nut (need to recheck)
 - 27x M3 nut (need to recheck) (DIN 934)
-- 6x M3 washer (need to recheck)
+- 10x M3 washer (need to recheck)
 - 4x M3x40 screw (need to recheck)
 - 7x M3x30 screw (need to recheck)
 - 2x M3x25 screw (need to recheck)
 - 3x M3x20 screw (need to recheck)
 - 24x M3x18 screw (need to recheck)
+- 2x M3x15 screw (need to recheck)
 - 6x M3x12 screw (need to recheck)
 - 16x M3x10 screw (need to recheck)
 
@@ -74,11 +76,11 @@
 
 ### Motors
 - 3x Stepper motor NEMA17 17HS4401 (with 4pin connector cables)
-- 2x Stepper motor NEMA17 17HS4401 with trapezoidal screw Tr8x8 (with 4pin connector cables)
+- 2x Stepper motor NEMA17 17HS4401 with trapezoidal screw Tr8x8, length between 300-320mm (with 4pin connector cables)
 
 ### Sensors
 - 2x Microswitch KW11-3Z
-- 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables and connector)
+- 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables)
 - 1x LJ8A3-2-Z/BX-5V sensor
 
 ### Base electronics
@@ -96,24 +98,22 @@
 
 ### Cables
 - 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC)
-- 2×2,5mm ~2m cable (for power)
-- 2×0,5mm ~5m cable (for microswitches and fans)
+- 1x 2×2,5mm ~4m cable (for power)
+- 1x 2×0,5mm ~5m cable (for microswitches and fans)
 - 2x 70cm IDC 10 pin cable (for LCD)
 - 4x 3pin ramps connector cables (2x for microswitches, 1x for Z probe, 1x for optical sensor)
 
 ## Other
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend (with thermistor and heater)
-- 2x GT2 belt (5m will be more than enough, exact size to be defined)
-- (at least) 12x zipties (need to recheck, probably more)
-- (optional) 4x felt pad (probably more - not only for the corners)
-- (optional) 1x nylon filament dia 3mm, 50cm length (need to recheck the lengths or for something easier to get)
+- 2x GT2 belt (around 2m, exact size to be defined)
+- (at least) 25x zipties (1,6x160mm)
 - (optional) 3x spiral wrap (need to recheck the lengths)
+- (optional) shrink bands
 
 ## Tools needed
 - soldering iron
 - small pliers
-- flatheat screwdriver (~3,6mm)
 - set of screwdrivers and/or hex keys (depending on what screws are you using)
 - 13/17mm spanners
 - good scissors
