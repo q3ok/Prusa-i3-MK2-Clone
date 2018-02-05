@@ -963,12 +963,12 @@ void kill_screen(const char* lcd_msg) {
   #if ENABLED(ENABLE_CALIBRATION_MENU)
   
     void lcd_calibration_z() {
-      enqueue_and_echo_commands_P("G28\nG1 Z180\nG1 Z210 F1000\nG1 Z50\nG28");
+      enqueue_and_echo_commands_P(PSTR("G28\nG1 Z180\nG1 Z210 F1000\nG1 Z50\nG28"));
       lcd_return_to_status();
     }
     
     void lcd_calibration_mesh() {
-      enqueue_and_echo_commands_P("G28\nG29 P1\nG29 P2 B T\nG29 F 5.0\nG29 A\nG29 S1\nM500");
+      enqueue_and_echo_commands_P(PSTR("G28\nG29 P1\nG29 P2 B T\nG29 F 5.0\nG29 A\nG29 S1\nM500"));
       lcd_return_to_status();
     }
   

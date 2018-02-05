@@ -178,7 +178,7 @@
   #define MSG_CALIBRATION_Z                   _UxGT("Calibrate Z axis")
 #endif
 #ifndef MSG_CALIBRATION_MESH
-  #define MSG_CALIBRATION_MESH                _UxGT("Calibrate bed leveling")
+  #define MSG_CALIBRATION_MESH                _UxGT("Calibrate bed")
 #endif
 #ifndef MSG_USER_MENU
   #define MSG_USER_MENU                       _UxGT("Custom Commands")
