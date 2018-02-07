@@ -6529,7 +6529,13 @@ inline void gcode_M17() {
       do_pause_e_move(retract, PAUSE_PARK_RETRACT_FEEDRATE);
 
     // Park the nozzle by moving up by z_lift and then moving to (x_pos, y_pos)
-    Nozzle::park(2, park_point);
+    #if ENABLED(FILAMENT_CHANGE_PARK_ONLY_WHEN_PRINTING)
+      if (planner.movesplanned() || IS_SD_PRINTING) {
+    #endif
+        Nozzle::park(2, park_point);
+    #if ENABLED(FILAMENT_CHANGE_PARK_ONLY_WHEN_PRINTING)
+      }
+    #endif
 
     if (unload_length != 0) {
       if (show_lcd) {

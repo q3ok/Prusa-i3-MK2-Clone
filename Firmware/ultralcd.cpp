@@ -958,12 +958,12 @@ void kill_screen(const char* lcd_msg) {
       END_MENU();
     }
 
-  #endif
+  #endif // ENABLED(CUSTOM_USER_MENUS)
   
   #if ENABLED(ENABLE_CALIBRATION_MENU)
   
     void lcd_calibration_z() {
-      enqueue_and_echo_commands_P(PSTR("G28\nG1 Z180\nG1 Z210 F1000\nG1 Z50\nG28"));
+      enqueue_and_echo_commands_P(PSTR("G28\nG1 Z180\nG1 Z210 F500\nG1 Z50\nG28"));
       lcd_return_to_status();
     }
     
@@ -980,7 +980,7 @@ void kill_screen(const char* lcd_msg) {
       END_MENU();
     }
   
-  #endif
+  #endif // ENABLED(ENABLE_CALIBRATION_MENU)
 
   /**
    *
