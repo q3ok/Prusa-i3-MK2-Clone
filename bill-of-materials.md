@@ -37,9 +37,9 @@
 - 1x spool-holder
 
 ## Metal parts
-- 2x Threaded rod M10x430mm (property class 8.8 or higher) (Lynx POLAND)[http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany]
-- 2x Threaded rod M8x330mm (property class 8.8 or higher) (Lynx POLAND)[http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany]
-- 2x Threaded rod M8x210mm (property class 8.8 or higher) (Lynx POLAND)[http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany]
+- 2x Threaded rod M10x430mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany)
+- 2x Threaded rod M8x330mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
+- 2x Threaded rod M8x210mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
 - 2x linear shaft Φ8 400mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 2x linear shaft Φ8 320mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
