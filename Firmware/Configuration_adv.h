@@ -673,7 +673,7 @@
  * MK2Clone r2 additional options
  * Use with care if you have another printer
  */           
-#define DISABLE_MANUAL_MOVE_DELAY  // Always do instant moves when using "Move" from LCD
+//#define DISABLE_MANUAL_MOVE_DELAY  // Always do instant moves when using "Move" from LCD (disabled due to missing steps when using high speeds)
 
 #define DISABLE_MOVE_OFFSET_SELECT   // Does not display option to choose 10/1/0.1mm moves (assume 1)
 
@@ -918,7 +918,7 @@
                                                   // even if it takes longer than DEFAULT_STEPPER_DEACTIVE_TIME.
   #define PARK_HEAD_ON_PAUSE                      // Go to filament change position on pause, return to print position on resume
   #define HOME_BEFORE_FILAMENT_CHANGE             // Ensure homing has been completed prior to parking for filament change
-  #define FILAMENT_CHANGE_PARK_ONLY_WHEN_PRINTING // Park the head only if the printer is currently printing, otherwise just change filament
+  //#define FILAMENT_CHANGE_PARK_ONLY_WHEN_PRINTING // Park the head only if the printer is currently printing, otherwise just change filament (bug - currently never parks)
 #endif
 
 // @section tmc

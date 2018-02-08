@@ -15,8 +15,8 @@ https://mk2clone.dozuki.com/c/MK2Clone_r2_assembly_guide
  * Calibration menu
    * Calibration of Z axis by moving to top
    * Automated UBL - G29 P1, P2 with manual measurement (if needed) and save mesh
- * Filament change without parking when not printing
- * Instant moves from LCD move menu
+ * Filament change without parking when not printing (not working properl right now)
+ * Instant moves from LCD move menu (when using high manual move speeds this causes missing steps)
  * Automatically enter move by 1mm instead of choosing 10/1/0.1mm
  * Quick access to Z move by doubleclick while on status
  * Quick access to Z offset adjustment while printing - new position on top of main menu
