@@ -52,7 +52,7 @@
 - 2x Spring dia. ~4,8mm, length 8mm [Ali](https://www.aliexpress.com/item/10pcs-3D-Printer-Platform-Supporting-Spring-Diameter-4-8mm-Length-8mm-Inelastic-State-FZ0631/32434037145.html)
 
 ### Screws, nuts and washers
-- 2x Trapezoidal nut for Tr8x8 (should be supplied with the stepper motors with integrated screw, but make sure that there is no looseness on them, otherwise buy another set) [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html)
+- 2x Trapezoidal nut for Tr8x8 (should be supplied with the stepper motors with integrated screw) [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html)
 - 14x M10 nut (DIN 934)
 - 12x M10 washer
 - 16x M8 nut (DIN 934)
