@@ -96,8 +96,18 @@ module x_end_motor(){
       translate([-15,8.5,51]) rotate([90,0,0]) cylinder(h=5, r=5, $fn=30);   
       translate([-15,3.5,6]) rotate([90,0,0]) cylinder(h=3, r1=5, r2=4, $fn=30);   
       translate([-15,3.5,51]) rotate([90,0,0]) cylinder(h=3, r1=5, r2=4, $fn=30); 
-      //#translate([-16,-40,0])cube([50,100,100]);   
+      //#translate([-16,-40,0])cube([50,100,100]);
+      
+
  }
+ // bearing stop
+    difference()
+        {
+            translate([0,0,57]) rotate([0,0,90]) cylinder( h=1, r=8, $fn=30);
+            translate([0,0,56.9]) rotate([0,0,90]) cylinder( h=0.5, r1=8, r2=7,$fn=30);    
+            translate([0,0,56.5]) rotate([0,0,90]) cylinder( h=2, r=7, $fn=30);
+            translate([-0.18,-0.5,50]) rotate([0,0,-40]) cube([12,1,10]);
+        }
  
 }
 

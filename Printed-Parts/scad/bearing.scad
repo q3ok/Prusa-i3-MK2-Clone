@@ -7,11 +7,12 @@
 
 use <polyholes.scad>
 
-bearing_diameter = 14.5;
+bearing_diameter = 14.95;
 
 module horizontal_bearing_base(bearings=1){
  translate(v=[0,0,6]) cube(size = [24,8+bearings*25,12], center = true);	
 }
+
 module horizontal_bearing_holes(bearings=1){
  cutter_lenght = 10+bearings*25;
  one_holder_lenght = 8+25;
@@ -40,22 +41,21 @@ module horizontal_bearing_holes(bearings=1){
  }
  
 }
-
-module horizontal_bearing_test(){
+ 
+module horizontal_bearing_holes_nozip(bearings=1){
+ cutter_lenght = 10+bearings*25;
+ one_holder_lenght = 8+25;
+ holder_lenght = 8+bearings*25;
+ 
+ // Main bearing cut
  difference(){
-  horizontal_bearing_base(1);
-  horizontal_bearing_holes(1);
+  translate(v=[0,0,12]) rotate(a=[90,0,0]) translate(v=[0,0,-cutter_lenght/2]) cylinder(h = cutter_lenght, r=(bearing_diameter/2)+0.2, $fn=50);
+  // Bearing retainers
+  translate(v=[0,1-holder_lenght/2,3]) cube(size = [24,6,8], center = true);
+  translate(v=[0,-1+holder_lenght/2,3]) cube(size = [24,6,8], center = true);
  }
- translate(v=[30,0,0]) difference(){
-  horizontal_bearing_base(2);
-  #horizontal_bearing_holes(2);
- }
- translate(v=[60,0,0]) difference(){
-  horizontal_bearing_base(3);
-  horizontal_bearing_holes(3);
- }
+ 
 }
-
 
 
 thinwall = 3;
@@ -67,15 +67,17 @@ module vertical_bearing_base(){
 }
 
 module vertical_bearing_holes(){
-  translate(v=[0,0,-1]) poly_cylinder(h = 62, r=(bearing_diameter/2)+0.1);
+  translate(v=[0,0,-1]) poly_cylinder(h = 62, r=(bearing_diameter/2));
+  translate(v=[0,0,-0.1]) cylinder(r1=(bearing_diameter/2)+0.7,r2=(bearing_diameter/2), h=0.5);
   rotate(a=[0,0,-40]) translate(v=[bearing_diameter/2-2.9,-0.5,0.5]) cube(size = [thinwall*2,1,62]);
 
 }
 
 //difference(){
-vertical_bearing_base();
-vertical_bearing_holes();
+//vertical_bearing_base();
+//vertical_bearing_holes();
 //}
 //horizontal_bearing_test();
 //horizontal_bearing_base(1);
 //horizontal_bearing_holes(1);
+horizontal_bearing_holes_nozip(1);
