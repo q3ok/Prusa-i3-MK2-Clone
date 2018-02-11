@@ -1,4 +1,5 @@
-// PRUSA iteration4
+// MK2Clone r2
+// based on PRUSA iteration4
 // X end idler
 // GNU GPL v3
 // Josef Průša <iam@josefprusa.cz> and contributors

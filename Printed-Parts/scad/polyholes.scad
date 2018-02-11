@@ -1,5 +1,5 @@
-//
-// Mendel90
+// MK2Clone r2
+// based on Mendel90
 //
 // GNU GPL v2
 // nop.head@gmail.com

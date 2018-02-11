@@ -1,4 +1,5 @@
-// PRUSA iteration3
+// MK2Clone r2
+// based on PRUSA iteration3
 // Bearing holders
 // GNU GPL v3
 // Josef Průša <iam@josefprusa.cz> and contributors
@@ -7,7 +8,7 @@
 
 use <polyholes.scad>
 
-bearing_diameter = 14.75;
+bearing_diameter = 14.70;
 
 module horizontal_bearing_base(bearings=1){
  translate(v=[0,0,6]) cube(size = [24,8+bearings*25,12], center = true);	

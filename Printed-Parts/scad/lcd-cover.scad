@@ -1,4 +1,5 @@
-// PRUSA iteration3
+// MK2Clone r2
+// based on PRUSA iteration3
 // LCD cover
 // GNU GPL v3
 // Josef Průša <iam@josefprusa.cz> and contributors
