@@ -6,6 +6,7 @@
 - 1x y-motor-holder 
 - 1x y-idler
 - 2x y-rear-spacer
+- (optional) 4x y-axis-table-spacer
 
 ### X-axis
 - 1x x-carriage
@@ -15,6 +16,7 @@
 ### Z-axis
 - 1x Z-axis-top
 - 1x Z-axis-bottom
+- 1x Z-screw-cover
 
 ### Extruder
 - 1x extruder-body (ABS suggested)
@@ -32,6 +34,7 @@
 - 1x electronics-cover-base
 - 1x electronics-cover-top
 - 1x power-supply-cover (ABS suggested)
+- 1x heatbed-cable-cover (ABS suggested)
 
 ### Other
 - 1x spool-holder
@@ -52,7 +55,7 @@
 - 2x Spring dia. ~4,8mm, length 8mm [Ali](https://www.aliexpress.com/item/10pcs-3D-Printer-Platform-Supporting-Spring-Diameter-4-8mm-Length-8mm-Inelastic-State-FZ0631/32434037145.html)
 
 ### Screws, nuts and washers
-- 2x Trapezoidal nut for Tr8x8 (should be supplied with the stepper motors with integrated screw) [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html)
+- 2x Trapezoidal nut for Tr8x8 [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html) (should be supplied with the stepper motors with integrated screw, but if not)
 - 14x M10 nut (DIN 934)
 - 12x M10 washer
 - 16x M8 nut (DIN 934)
@@ -101,7 +104,7 @@
 - 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC)
 - 1x 2×2,5mm ~4m cable (for power)
 - 1x 2×0,5mm ~5m cable (for microswitches and fans)
-- 2x 70cm IDC 10 pin cable (for LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html)
+- 2x 70cm IDC 10 pin cable (for LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) (optional, depends if the cables arrived with LCD are long enough or not)
 - 4x 3pin ramps connector cables (2x for microswitches, 1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
 
 ## Other
@@ -109,7 +112,7 @@
 - 1x Original E3Dv6 Full Metal hotend 12V 1,75mm Direct (with thermistor and heater) [E3D Online](https://e3d-online.com/v6)
 - 2x GT2 belt (around 2m, exact size to be defined) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
 - (at least) 25x zipties (1,6x160mm)
-- (optional) 3x spiral wrap (need to recheck the lengths)
+- (optional, but highly recommended) spiral wrap (need to recheck the lengths)
 - (optional) shrink bands
 
 ## Tools needed
