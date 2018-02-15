@@ -325,7 +325,7 @@
 // When temperature exceeds max temp, your heater will be switched off.
 // This feature exists to protect your hotend from overheating accidentally, but *NOT* from thermistor short/failure!
 // You should use MINTEMP for thermistor short/failure protection.
-#define HEATER_0_MAXTEMP 290
+#define HEATER_0_MAXTEMP 295
 #define HEATER_1_MAXTEMP 275
 #define HEATER_2_MAXTEMP 275
 #define HEATER_3_MAXTEMP 275
@@ -354,9 +354,9 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
-  #define  DEFAULT_Kp 27.12
-  #define  DEFAULT_Ki 2.24
-  #define  DEFAULT_Kd 82.19
+  #define  DEFAULT_Kp 25.74
+  #define  DEFAULT_Ki 2.21
+  #define  DEFAULT_Kd 74.86
 
   // MakerGear
   //#define  DEFAULT_Kp 7.0
@@ -397,9 +397,9 @@
   //#define PID_BED_DEBUG // Sends debug data to the serial port.
 
 
-  #define  DEFAULT_bedKp 438.00
-  #define  DEFAULT_bedKi 84.87
-  #define  DEFAULT_bedKd 565.12
+  #define  DEFAULT_bedKp 355.58
+  #define  DEFAULT_bedKi 61.14
+  #define  DEFAULT_bedKd 517.01
 
   //120V 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
   //from FOPDT model - kp=.39 Tp=405 Tdead=66, Tc set to 79.2, aggressive factor of .15 (vs .1, 1, 10)
@@ -785,7 +785,7 @@
 
 // The size of the print bed
 #define X_BED_SIZE 251
-#define Y_BED_SIZE 210 //215
+#define Y_BED_SIZE 215
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS -1
@@ -828,7 +828,7 @@
  * For other boards you may need to define FIL_RUNOUT_PIN.
  * By default the firmware assumes HIGH = has filament, LOW = ran out
  */
-//#define FILAMENT_RUNOUT_SENSOR
+#define FILAMENT_RUNOUT_SENSOR
 #if ENABLED(FILAMENT_RUNOUT_SENSOR)
   #define FIL_RUNOUT_INVERTING false // set to true to invert the logic of the sensor.
   #define ENDSTOPPULLUP_FIL_RUNOUT // Uncomment to use internal pullup for filament runout pins if the sensor is defined.
