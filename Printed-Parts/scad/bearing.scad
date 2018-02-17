@@ -8,7 +8,7 @@
 
 use <polyholes.scad>
 
-bearing_diameter = 14.70;
+bearing_diameter = 14.75;
 
 module horizontal_bearing_base(bearings=1){
  translate(v=[0,0,6]) cube(size = [24,8+bearings*25,12], center = true);	
