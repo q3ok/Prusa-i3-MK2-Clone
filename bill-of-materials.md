@@ -33,7 +33,7 @@
 - 4x lcd-cable-clip
 - 1x electronics-cover-base
 - 1x electronics-cover-top
-- 1x power-supply-cover (ABS suggested)
+- 1x power-supply-cover
 - 1x heatbed-cable-cover (ABS suggested)
 
 ### Other
