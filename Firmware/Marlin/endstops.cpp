@@ -206,6 +206,7 @@ void Endstops::report_state() {
 
     #if ENABLED(ABORT_ON_ENDSTOP_HIT_FEATURE_ENABLED) && ENABLED(SDSUPPORT)
       if (stepper.abort_on_endstop_hit) {
+        /* TODOTODO the code to rehome using TMC2130 should be there */
         card.sdprinting = false;
         card.closefile();
         quickstop_stepper();
