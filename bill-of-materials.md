@@ -83,17 +83,18 @@
 - 2x Stepper motor NEMA17 17HS4401 with trapezoidal screw Tr8x8, length between 300-320mm (with 4pin connector cables) [Ali](https://www.aliexpress.com/item/Free-shipping-2pcs-3D-printer-Nema17-17HS4401-T8-8-L300MM-Screw-Rod-Linear-Stepping-Motor-Z/32800493896.html)
 
 ### Sensors
-- 2x Microswitch KW11-3Z [Ali](https://www.aliexpress.com/item/10pcs-250V-5A-3-Pin-Tact-Switch-Sensitive-Microswitch-Micro-Switches-Handle-KW11-3Z/32765162932.html) [Ali2](https://www.aliexpress.com/item/10pcs-250V-5A-3-Pin-Tact-Switch-Sensitive-Microswitch-Micro-Switches-Handle-KW11-3Z/32765162932.html)
 - 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables) [Ali](https://www.aliexpress.com/item/Free-Shipping-6Pcs-Optical-Endstop-Light-Control-Limit-Optical-Switch-for-3D-Printers-RAMPS-1-4/32245549123.html)
 - 1x LJ8A3-2-Z/BX-5V sensor [Ali](https://www.aliexpress.com/item/M8-2mm-sensing-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-cylinder-inductive-proximity-sensor/32798621306.html) [Ali2](https://www.aliexpress.com/item/M8-2mm-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-Inductive-Proximity-Sensor-Switch-Inductive/32833335190.html)
 
 ### Base electronics
-- 1x Arduino Mega 2560 [Ali - RobotDyn](https://www.aliexpress.com/item/Mega-2560-R3-CH340G-ATmega2560-16AU-MicroUSB-Compatible-for-Arduino-Mega-2560-With-Bootloader/32517341214.html)
-- 1x RAMPS 1.4 [Ali - RobotDyn](https://www.aliexpress.com/item/RAMPS-1-4-Mega-Shield-For-3D-printer-RepRap-Prusa-Mendel-Assembled/32713303343.html)
-- 4x TMC2208 stepper motor driver [Ali - FYSETC](https://www.aliexpress.com/item/5PCS-TMC2100-V1-3-TMC2130-TMC2208-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-For/32848553467.html)
-- 1x A4988 stepper motor driver (extruder) [Ali](https://www.aliexpress.com/item/Reprap-Stepper-Driver-A4988-Stepper-Motor-Driver-Module-Dropshipping/32475563514.html)
+- 1x Arduino Mega 2560 [Ali1](https://www.aliexpress.com/item/Free-Shipping-MEGA2560-R3-MEGA2560-REV3-ATMEGA2560-16AU-Board-USB-Cable-compatible-We-are-the-manufacturer/32513419382.html) [Ali2](https://www.aliexpress.com/item/2014-the-last-new-MEGA-2560-R3-development-board-FOR-arduino-an-improved-version/32247818078.html) [Ali - RobotDyn](https://www.aliexpress.com/item/Mega-2560-R3-CH340G-ATmega2560-16AU-MicroUSB-Compatible-for-Arduino-Mega-2560-With-Bootloader/32517341214.html)
+- 1x RAMPS 1.4 [Ali1](https://www.aliexpress.com/item/Free-shipping-RAMPS-1-4-3D-printer-control-panel-printer-Control-Reprap-MendelPrusa/32245490809.html) [Ali2](https://www.aliexpress.com/item/RAMPS-1-4-3D-printer-control-panel-printer-Control-Reprap-MendelPrusa/1999621647.html)
+- 3x TMC2130 v1.1 stepper motor driver (X, Y, E) [Ali - FYSETC 1pc](https://www.aliexpress.com/item/1pc-MKS-TMC2130-V1-0-New-TMC2130-V1-1-Stepstick-Stepper-Motor-Driver-SPI-With-Heat/32853263225.html) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2130-v1-1-TMC2130-New-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-With/32851428237.html)
+- 2x TMC2208 stepper motor driver (Z1, Z2) [Ali - FYSETC 1pc](https://www.aliexpress.com/item/TMC2100-V1-3-TMC2130-TMC2208-V1-0-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-And/32840768685.html) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2100-V1-3-TMC2130-TMC2208-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-For/32848553467.html)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion [Ali1](https://www.aliexpress.com/item/3D-Printer-Kit-Reprap-Smart-Parts-Controller-Display-Reprap-Ramps-1-4-2004-LCD-LCD/32822928587.html) [Ali2](https://www.aliexpress.com/item/1-Pcs-LCD-Display-3D-Printer-Reprap-Smart-Controller-Reprap-Ramps-1-4-2004-LCD-Control/32814415276.html) [Ali3](https://www.aliexpress.com/item/Brand-New-Top-Quality-LCD-2004-Smart-Display-Controller-For-RAMPS-1-4-RepRap-3D-Printer/32785089586.html)
 - 1x Aluminium MK42 chinese clone (with cables, thermistor, screws, pillars and PEI sheet) [Ali](https://www.aliexpress.com/item/Reprap-Prusa-i3-MK2-MK2S-3d-printer-heated-bed-with-PEI-tape-aluminum-alloy-clone-compatible/32843210618.html)
+- 1x Ramps fan expansion RRD [Ali](https://www.aliexpress.com/item/1pc-Max-20V-3D-Printer-Reprap-RAMPS-1-4-RRD-Fan-Extender-Expansion-Modul-For-3D/32850915921.html)
+- 1x External heatbed mosfet [Ali1](https://www.aliexpress.com/item/CHANGTA-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-Upgrade-RAMPS-1-4/32846759884.html) [Ali2](https://www.aliexpress.com/item/New-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-upgrade-RAMPS-1-4-QJY99/32816088280.html)
 
 ### Cooling
 - 1x SUNON MF50151V1-B00U-A99 (50x50x15 turbine fan) [TME](https://www.tme.eu/en/details/mf50151v1-a99/dc12v-fans/sunon/mf50151v1-b00u-a99/)
@@ -105,12 +106,14 @@
 - 1x 2×2,5mm ~4m cable (for power)
 - 1x 2×0,5mm ~5m cable (for microswitches and fans)
 - 2x 70cm IDC 10 pin cable (for LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) (optional, depends if the cables arrived with LCD are long enough or not)
-- 4x 3pin ramps connector cables (2x for microswitches, 1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
+- 2x 3pin ramps connector cables (1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
 
 ## Other
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend 12V 1,75mm Direct (with thermistor and heater) [E3D Online](https://e3d-online.com/v6)
 - 2x GT2 belt (around 2m, exact size to be defined) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
+- 3x goldpin (to be soldered on DIAG1 of TMC2130)
+- 3x 1pin cable (to connect endstop from X, Y, E from DIAG1 to motherboard)
 - (at least) 25x zipties (1,6x160mm)
 - (optional, but highly recommended) spiral wrap (need to recheck the lengths)
 - (optional) shrink bands
