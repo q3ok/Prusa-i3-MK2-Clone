@@ -5,12 +5,14 @@ In this repository you will find:
  * printed parts needed
  * [bill of materials](bill-of-materials.md)
  * printing profiles for Slic3r PE
+ 
+Software are available on another GitHub repo
  * [Customized Marlin 1.1.8](https://github.com/q3ok/Marlin/tree/MK2Clone-r2)
+ 
+You can also go with clean Marlin or Repetier, or any other Firmware you like, but you have to configure it on your own :)
  
 ##### Assembly guide
 https://mk2clone.dozuki.com/c/MK2Clone_r2_assembly_guide
- 
-All of those can be disabled/enabled by options in Configuration_adv.
 
 ##### More informations
 https://prusaclone.wordpress.com/
