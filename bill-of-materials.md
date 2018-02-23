@@ -102,21 +102,21 @@
 - 1x SUNON HA50151V4-000U-999 (50x50x15 fan) [TME](https://www.tme.eu/en/details/ha50151v4/dc12v-fans/sunon/ha50151v4-000u-999/)
 
 ### Cables
-- 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC)
+- 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC) [Ali](https://www.aliexpress.com/item/2-Prong-EU-Plug-AC-Power-Cord-Cable-1-2m-4FT-For-PC-Desktop-Monitor-Computer/32672339870.html)
 - 1x 2×2,5mm ~4m cable (for power)
 - 1x 2×0,5mm ~5m cable (for microswitches and fans)
-- 2x 70cm IDC 10 pin cable (for LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) (optional, depends if the cables arrived with LCD are long enough or not)
+- 2x 70cm IDC 10 pin cable (for LCD, optional, depending on the cables arrived with LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html)
 - 2x 3pin ramps connector cables (1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
 
 ## Other
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
 - 1x Original E3Dv6 Full Metal hotend 12V 1,75mm Direct (with thermistor and heater) [E3D Online](https://e3d-online.com/v6)
 - 2x GT2 belt (around 2m, exact size to be defined) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
-- 3x goldpin (to be soldered on DIAG1 of TMC2130)
-- 3x 1pin cable (to connect endstop from X, Y, E from DIAG1 to motherboard)
-- (at least) 25x zipties (1,6x160mm)
-- (optional, but highly recommended) spiral wrap (need to recheck the lengths)
-- (optional) shrink bands
+- 3x goldpin (to be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
+- 18x 1pin dupont wire female-female 20cm (TMC2130 connections, 10cm cables can be not long enough) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
+- (at least) 25x zipties (2,5x160mm) [Ali](https://www.aliexpress.com/store/product/1000Pcs-pack-3-160mm-High-Quality-width-2-5mm-Black-Color-National-Standard-Self-locking-Plastic/2961243_32804581698.html)
+- (optional, but highly recommended) spiral wrap (need to recheck the lengths) [Ali](https://www.aliexpress.com/item/New-Spiral-Cable-Wire-Wrap-Tube-Diameter-8mm-12-Meter-Part-PE-Manage-Cord-White-Black/32799682873.html)
+- (optional) heat-shrink tubings (a set of, in different sizes) [Ali1](https://www.aliexpress.com/store/product/Black-Color-150PCS-Polyolefin-2-1-Halogen-Free-Heat-Shrink-Tubing-Tube-Assortment-Sleeving-Wrap-Tubes/2961243_32811844132.html) [Ali2](https://www.aliexpress.com/item/127pcs-2-1-7-Sizes-Assortment-Polyolefin-Halogen-Free-Heat-Shrink-Tubing-Tube-Sleeving-Wire-Cable/32767906643.html) [Ali3](https://www.aliexpress.com/item/328Pcs-pack-Polyolefin-Assorted-Heat-Shrink-Tubing-Insulation-Shrinkable-Tube-Wrap-Wire-Cable/32824714170.html)
 
 ## Tools needed
 - soldering iron
