@@ -84,12 +84,12 @@ module x_end_motor(){
  difference(){
      union(){
             x_end_motor_base();
-            x_end_motor_endstop_base();
+            //x_end_motor_endstop_base();
          }
          
       x_end_motor_shaft_cutout();
       x_end_motor_holes();
-      x_end_motor_endstop_holes();    
+      //x_end_motor_endstop_holes();    
       
       translate([-12,-42,65]) rotate([-35,0,0])  rotate([0,0,45]) cube(10,10,10);
       translate([-15,8.5,6]) rotate([90,0,0]) cylinder(h=5, r=5, $fn=30);   
