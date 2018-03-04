@@ -1,3 +1,5 @@
+# MK2Clone r2 BOM
+
 ## Printed plastic parts
 ### Y-axis
 - 1x y-axis-front
@@ -6,7 +8,7 @@
 - 1x y-motor-holder 
 - 1x y-idler
 - 2x y-rear-spacer
-- (optional) 4x y-axis-table-spacer
+- (optional, in case the frame is cutted from soft plywood) 4x y-axis-table-spacer
 
 ### X-axis
 - 1x x-carriage
@@ -37,7 +39,7 @@
 - 1x heatbed-cable-cover (ABS suggested)
 
 ### Other
-- 1x spool-holder
+- 1x spool-holder (recommended printed with at least 4 perimeters)
 
 ## Metal parts
 - 2x Threaded rod M10x430mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany)
@@ -60,7 +62,7 @@
 - 12x M10 washer
 - 16x M8 nut (DIN 934)
 - 16x M8 washer
-- 18x M3 self-locking nut (need to recheck)
+- 18x M3 self-locking nut
 - 27x M3 nut (need to recheck) (DIN 934)
 - 10x M3 washer (need to recheck)
 - 4x M3x40 screw (need to recheck)
@@ -84,7 +86,10 @@
 
 ### Sensors
 - 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables) [Ali](https://www.aliexpress.com/item/Free-Shipping-6Pcs-Optical-Endstop-Light-Control-Limit-Optical-Switch-for-3D-Printers-RAMPS-1-4/32245549123.html)
-- 1x LJ8A3-2-Z/BX-5V sensor [Ali](https://www.aliexpress.com/item/M8-2mm-sensing-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-cylinder-inductive-proximity-sensor/32798621306.html) [Ali2](https://www.aliexpress.com/item/M8-2mm-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-Inductive-Proximity-Sensor-Switch-Inductive/32833335190.html)
+- 1x from those sensors:
+	- LJ8A3-4-Z/BX-5V sensor, mostly hard to find - but If you contact [this Aliexpress store](https://www.aliexpress.com/item/Remote-inductive-proximity-switch-LJ8A3-4-Z-BX-sensor-NPN-three-wire-normally-open/32758314079.html) they can prepare custom sensor (it will cost around 10-20 USD, depending on quantity)
+	- OR LJ8A3-2-Z/BX-5V sensor [Ali](https://www.aliexpress.com/item/M8-2mm-sensing-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-cylinder-inductive-proximity-sensor/32798621306.html) (some of those sensor are not working properly, because of too short detection distance, but I've got the one from this link, and it's working almost fine)
+  
 
 ### Base electronics
 - 1x Arduino Mega 2560 [Ali1](https://www.aliexpress.com/item/Free-Shipping-MEGA2560-R3-MEGA2560-REV3-ATMEGA2560-16AU-Board-USB-Cable-compatible-We-are-the-manufacturer/32513419382.html) [Ali2](https://www.aliexpress.com/item/2014-the-last-new-MEGA-2560-R3-development-board-FOR-arduino-an-improved-version/32247818078.html) [Ali - RobotDyn](https://www.aliexpress.com/item/Mega-2560-R3-CH340G-ATmega2560-16AU-MicroUSB-Compatible-for-Arduino-Mega-2560-With-Bootloader/32517341214.html)
@@ -93,8 +98,8 @@
 - 2x TMC2208 stepper motor driver (Z1, Z2) [Ali - FYSETC 1pc](https://www.aliexpress.com/item/TMC2100-V1-3-TMC2130-TMC2208-V1-0-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-And/32840768685.html) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2100-V1-3-TMC2130-TMC2208-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-For/32848553467.html)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion [Ali1](https://www.aliexpress.com/item/3D-Printer-Kit-Reprap-Smart-Parts-Controller-Display-Reprap-Ramps-1-4-2004-LCD-LCD/32822928587.html) [Ali2](https://www.aliexpress.com/item/1-Pcs-LCD-Display-3D-Printer-Reprap-Smart-Controller-Reprap-Ramps-1-4-2004-LCD-Control/32814415276.html) [Ali3](https://www.aliexpress.com/item/Brand-New-Top-Quality-LCD-2004-Smart-Display-Controller-For-RAMPS-1-4-RepRap-3D-Printer/32785089586.html)
 - 1x Aluminium MK42 chinese clone (with cables, thermistor, screws, pillars and PEI sheet) [Ali](https://www.aliexpress.com/item/Reprap-Prusa-i3-MK2-MK2S-3d-printer-heated-bed-with-PEI-tape-aluminum-alloy-clone-compatible/32843210618.html)
-- 1x Ramps fan expansion RRD [Ali](https://www.aliexpress.com/item/1pc-Max-20V-3D-Printer-Reprap-RAMPS-1-4-RRD-Fan-Extender-Expansion-Modul-For-3D/32850915921.html)
-- 1x External heatbed mosfet [Ali1](https://www.aliexpress.com/item/CHANGTA-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-Upgrade-RAMPS-1-4/32846759884.html) [Ali2](https://www.aliexpress.com/item/New-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-upgrade-RAMPS-1-4-QJY99/32816088280.html)
+- (optional) 1x Ramps fan expansion RRD [Ali](https://www.aliexpress.com/item/1pc-Max-20V-3D-Printer-Reprap-RAMPS-1-4-RRD-Fan-Extender-Expansion-Modul-For-3D/32850915921.html)
+- (optional) 1x External heatbed mosfet [Ali1](https://www.aliexpress.com/item/CHANGTA-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-Upgrade-RAMPS-1-4/32846759884.html) [Ali2](https://www.aliexpress.com/item/New-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-upgrade-RAMPS-1-4-QJY99/32816088280.html)
 
 ### Cooling
 - 1x SUNON MF50151V1-B00U-A99 (50x50x15 turbine fan) [TME](https://www.tme.eu/en/details/mf50151v1-a99/dc12v-fans/sunon/mf50151v1-b00u-a99/)
@@ -109,13 +114,13 @@
 - 2x 3pin ramps connector cables (1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
 
 ## Other
-- 1x Laser cutted MK2Clone r2 frame, from 10mm plywood
+- 1x Laser cutted MK2Clone r2 frame, from 10mm plywood (can be also cnc cutted) (hard wood recommended)
 - 1x Original E3Dv6 Full Metal hotend 12V 1,75mm Direct (with thermistor and heater) [E3D Online](https://e3d-online.com/v6)
-- 2x GT2 belt (around 2m, exact size to be defined) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
-- 3x goldpin (to be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
+- 2x GT2 belt (around 2m will be enough) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
+- 3x goldpin (will be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
 - 18x 1pin dupont wire female-female 20cm (TMC2130 connections, 10cm cables can be not long enough) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
 - (at least) 25x zipties (2,5x160mm) [Ali](https://www.aliexpress.com/store/product/1000Pcs-pack-3-160mm-High-Quality-width-2-5mm-Black-Color-National-Standard-Self-locking-Plastic/2961243_32804581698.html)
-- (optional, but highly recommended) spiral wrap (need to recheck the lengths) [Ali](https://www.aliexpress.com/item/New-Spiral-Cable-Wire-Wrap-Tube-Diameter-8mm-12-Meter-Part-PE-Manage-Cord-White-Black/32799682873.html)
+- (optional, but highly recommended) spiral wrap [Ali](https://www.aliexpress.com/item/New-Spiral-Cable-Wire-Wrap-Tube-Diameter-8mm-12-Meter-Part-PE-Manage-Cord-White-Black/32799682873.html)
 - (optional) heat-shrink tubings (a set of, in different sizes) [Ali1](https://www.aliexpress.com/store/product/Black-Color-150PCS-Polyolefin-2-1-Halogen-Free-Heat-Shrink-Tubing-Tube-Assortment-Sleeving-Wrap-Tubes/2961243_32811844132.html) [Ali2](https://www.aliexpress.com/item/127pcs-2-1-7-Sizes-Assortment-Polyolefin-Halogen-Free-Heat-Shrink-Tubing-Tube-Sleeving-Wire-Cable/32767906643.html) [Ali3](https://www.aliexpress.com/item/328Pcs-pack-Polyolefin-Assorted-Heat-Shrink-Tubing-Insulation-Shrinkable-Tube-Wrap-Wire-Cable/32824714170.html)
 
 ## Tools needed
