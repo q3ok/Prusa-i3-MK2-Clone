@@ -18,7 +18,7 @@
 ### Z-axis
 - 1x Z-axis-top
 - 1x Z-axis-bottom
-- 1x Z-screw-cover
+- 2x Z-screw-cover
 
 ### Extruder
 - 1x extruder-body (ABS suggested)
