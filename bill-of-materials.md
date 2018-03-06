@@ -42,14 +42,14 @@
 - 1x spool-holder (recommended printed with at least 4 perimeters)
 
 ## Metal parts
-- 2x Threaded rod M10x430mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany)
-- 2x Threaded rod M8x330mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
-- 2x Threaded rod M8x210mm (property class 8.8 or higher) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
+- 2x Threaded rod M10x430mm (strength class 8.8 or higher recommended) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany)
+- 2x Threaded rod M8x330mm (strength class 8.8 or higher recommended) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
+- 2x Threaded rod M8x210mm (strength class 8.8 or higher recommended) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_8x1000_ocynkowany)
 - 2x linear shaft Φ8 400mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 2x linear shaft Φ8 320mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 1x linear shaft Φ5 16mm (can be replaced with printed one) [Ali](https://www.aliexpress.com/item/10pcs-M5-M5-16-5x16-304-Stainless-Steel-Fasten-Cylinder-Solid-Pins-Fixed-Parallel-Dowel-Pin/32702746919.html)
-- 11x ball bearing LM8UU (make sure the bearings doesnt have any looseness, it's very important, always check them on your linear shafts, as otherwise it will have impact on print quality) [Ali - FUSHI](https://www.aliexpress.com/item/LM08UU-Ball-Bushing-8x15x24-LM8UU-Linear-Motion-Bearings/572304407.html)
+- 11x ball bearing LM8UU (or equivalent) (make sure the bearings doesnt have any looseness, it's very important, always check them on your linear shafts, as otherwise it will have impact on print quality) [Ali - FUSHI](https://www.aliexpress.com/item/LM08UU-Ball-Bushing-8x15x24-LM8UU-Linear-Motion-Bearings/572304407.html) [MiSUMI](https://us.misumi-ec.com/vona2/detail/110300026540/?ProductCode=LMU-N8) [SKF](https://www.123bearing.com/bearing-LBBR8-2LS-HV6-SKF.php) [LM8GA - FUSHI](https://www.aliexpress.com/item/LM08GA-Linear-Ball-Bearings-8x15x24mm-1-PC-CNC-Metal-Steel-Retainer-Linear-Bushing-LM08UU-Shaft-8MM/32826226417.html)
 - 1x 625ZZ or 625 2RS bearing [Ali - FUSHI](https://www.aliexpress.com/store/product/625RS-Bearing-ABEC-5-10PCS-5-16-5-mm-Miniature-Sealed-625-2RS-Ball-Bearings-625/511615_32802288535.html)
 - 2x GT2-16 idler pulley (bore 3mm) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-2GT-16-Teeth-synchronous-Idler-Pulley-Bore-3mm-with-Bearing-for-Width-6MM-GT2-Timing/32796878074.html)
 - 2x GT2-16 pulley (bore 5mm) (make sure the pulleys doesnt have any looseness, because it will have impact on print quality) [Ali - POWGE](https://www.aliexpress.com/item/Freeshipping-40pcs-16teeth-GT2-Timing-Pulley-Bore-5mm-fit-for-width-6mm-of-2GT-Timing/1744808992.html)
@@ -57,7 +57,7 @@
 - 2x Spring dia. ~4,8mm, length 8mm [Ali](https://www.aliexpress.com/item/10pcs-3D-Printer-Platform-Supporting-Spring-Diameter-4-8mm-Length-8mm-Inelastic-State-FZ0631/32434037145.html)
 
 ### Screws, nuts and washers
-- 2x Trapezoidal nut for Tr8x8 [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html) (should be supplied with the stepper motors with integrated screw, but if not)
+- 2x Trapezoidal nut for Tr8x8 [Ali](https://www.aliexpress.com/item/5pcs-lot-T8-Trapezoidal-Nuts-Copper-8mm-Part-Screws-For-Stepper-Motor-Lead-Screw-Brass-3D/32814905225.html) (should be supplied with the stepper motors with integrated screw, but if not...)
 - 14x M10 nut (DIN 934)
 - 12x M10 washer
 - 16x M8 nut (DIN 934)
