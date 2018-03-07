@@ -39,7 +39,7 @@
 - 1x heatbed-cable-cover (ABS suggested)
 
 ### Other
-- 1x spool-holder (recommended printed with at least 4 perimeters)
+- 1x spool-holder (recommended to print with at least 4 perimeters)
 
 ## Metal parts
 - 2x Threaded rod M10x430mm (strength class 8.8 or higher recommended) [Lynx POLAND](http://www.lynxsc.pl/sklep/ocynk_galwaniczny/pret_gwintowany_kl_88_10x1000_ocynkowany)
@@ -49,11 +49,11 @@
 - 2x linear shaft Φ8 370mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 2x linear shaft Φ8 320mm (hardened steel, HRC >60, tolerance 8h6) [Neron POLAND](https://www.sklep.neronpila.pl/pl/p/Walek-liniowy-fi-8-mm-L1000-mm-prowadnica/26642)
 - 1x linear shaft Φ5 16mm (can be replaced with printed one) [Ali](https://www.aliexpress.com/item/10pcs-M5-M5-16-5x16-304-Stainless-Steel-Fasten-Cylinder-Solid-Pins-Fixed-Parallel-Dowel-Pin/32702746919.html)
-- 11x ball bearing LM8UU (or equivalent) (make sure the bearings doesnt have any looseness, it's very important, always check them on your linear shafts, as otherwise it will have impact on print quality) [Ali - FUSHI](https://www.aliexpress.com/item/LM08UU-Ball-Bushing-8x15x24-LM8UU-Linear-Motion-Bearings/572304407.html) [MiSUMI](https://us.misumi-ec.com/vona2/detail/110300026540/?ProductCode=LMU-N8) [SKF](https://www.123bearing.com/bearing-LBBR8-2LS-HV6-SKF.php) [LM8GA - FUSHI](https://www.aliexpress.com/item/LM08GA-Linear-Ball-Bearings-8x15x24mm-1-PC-CNC-Metal-Steel-Retainer-Linear-Bushing-LM08UU-Shaft-8MM/32826226417.html)
+- 11x ball bearing LM8UU (or equivalent) (make sure the bearings doesnt have any looseness, as it's very important, always check them on your linear shafts, otherwise it will have big impact on print quality) [Ali - FUSHI](https://www.aliexpress.com/item/LM08UU-Ball-Bushing-8x15x24-LM8UU-Linear-Motion-Bearings/572304407.html) [MiSUMI](https://us.misumi-ec.com/vona2/detail/110300026540/?ProductCode=LMU-N8) [SKF](https://www.123bearing.com/bearing-LBBR8-2LS-HV6-SKF.php) [LM8GA - FUSHI](https://www.aliexpress.com/item/LM08GA-Linear-Ball-Bearings-8x15x24mm-1-PC-CNC-Metal-Steel-Retainer-Linear-Bushing-LM08UU-Shaft-8MM/32826226417.html)
 - 1x 625ZZ or 625 2RS bearing [Ali - FUSHI](https://www.aliexpress.com/store/product/625RS-Bearing-ABEC-5-10PCS-5-16-5-mm-Miniature-Sealed-625-2RS-Ball-Bearings-625/511615_32802288535.html)
 - 2x GT2-16 idler pulley (bore 3mm) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-2GT-16-Teeth-synchronous-Idler-Pulley-Bore-3mm-with-Bearing-for-Width-6MM-GT2-Timing/32796878074.html)
-- 2x GT2-16 pulley (bore 5mm) (make sure the pulleys doesnt have any looseness, because it will have impact on print quality) [Ali - POWGE](https://www.aliexpress.com/item/Freeshipping-40pcs-16teeth-GT2-Timing-Pulley-Bore-5mm-fit-for-width-6mm-of-2GT-Timing/1744808992.html)
-- 1x MK8 pulley (drive gear, bore 5mm) [Ali](https://www.aliexpress.com/item/MK8-drive-gear-pulley-3d-printer-extruder-head-reprap-1-75-and-3mm-filament/32805142386.html) [Ali2](https://www.aliexpress.com/item/MK8-MK7-Extruder-Drive-Gear-Bore-5mm-For-1-75mm-and-3-0mm-Hobbed-Gear-For/32543429677.html)
+- 2x GT2-16 pulley (bore 5mm) (make sure the pulleys doesn't have any looseness, because it will have impact on print quality) [Ali - POWGE](https://www.aliexpress.com/item/Freeshipping-40pcs-16teeth-GT2-Timing-Pulley-Bore-5mm-fit-for-width-6mm-of-2GT-Timing/1744808992.html)
+- 1x MK8 drive gear (for 1,75mm filament, bore 5mm) [Ali](https://www.aliexpress.com/item/MK8-drive-gear-pulley-3d-printer-extruder-head-reprap-1-75-and-3mm-filament/32805142386.html) [Ali2](https://www.aliexpress.com/item/MK8-MK7-Extruder-Drive-Gear-Bore-5mm-For-1-75mm-and-3-0mm-Hobbed-Gear-For/32543429677.html)
 - 2x Spring dia. ~4,8mm, length 8mm [Ali](https://www.aliexpress.com/item/10pcs-3D-Printer-Platform-Supporting-Spring-Diameter-4-8mm-Length-8mm-Inelastic-State-FZ0631/32434037145.html)
 
 ### Screws, nuts and washers
@@ -86,9 +86,9 @@
 
 ### Sensors
 - 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables) [Ali](https://www.aliexpress.com/item/Free-Shipping-6Pcs-Optical-Endstop-Light-Control-Limit-Optical-Switch-for-3D-Printers-RAMPS-1-4/32245549123.html)
-- 1x from those sensors:
-	- LJ8A3-4-Z/BX-5V sensor, mostly hard to find - but If you contact [this Aliexpress store](https://www.aliexpress.com/item/Remote-inductive-proximity-switch-LJ8A3-4-Z-BX-sensor-NPN-three-wire-normally-open/32758314079.html) they can prepare custom sensor (it will cost around 10-20 USD, depending on quantity)
-	- OR LJ8A3-2-Z/BX-5V sensor [Ali](https://www.aliexpress.com/item/M8-2mm-sensing-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-cylinder-inductive-proximity-sensor/32798621306.html) (some of those sensor are not working properly, because of too short detection distance, but I've got the one from this link, and it's working almost fine)
+- 1x inductive sensor LJ8A3:
+	- LJ8A3-4-Z/BX-5V sensor, mostly hard to find - but If you ask [this Aliexpress store](https://www.aliexpress.com/item/Remote-inductive-proximity-switch-LJ8A3-4-Z-BX-sensor-NPN-three-wire-normally-open/32758314079.html) they will prepare custom sensor (ask for inductive M8 sensor, 4mm sensing distance, NPN NO, working on 5v) it will cost around 10-20 USD, depending on quantity)
+	- OR LJ8A3-2-Z/BX-5V sensor [Ali](https://www.aliexpress.com/item/M8-2mm-sensing-DC-5V-NPN-NO-LJ8A3-2-Z-BX-5V-cylinder-inductive-proximity-sensor/32798621306.html) (some of those sensor are not working properly, because of too short detection distance, but I've got the one from this link, and it's working almost fine, but while printing the sensor is really close to the bed)
   
 
 ### Base electronics
@@ -110,18 +110,19 @@
 - 1x Power cable (IEC C13 <-> your local wall socket standard, a typical cable used in PC) [Ali](https://www.aliexpress.com/item/2-Prong-EU-Plug-AC-Power-Cord-Cable-1-2m-4FT-For-PC-Desktop-Monitor-Computer/32672339870.html)
 - 1x 2×2,5mm ~4m cable (for power)
 - 1x 2×0,5mm ~5m cable (for microswitches and fans)
-- 2x 70cm IDC 10 pin cable (for LCD, optional, depending on the cables arrived with LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html)
+- 2x 70cm IDC 10 pin cable (optional, depending on the length of cables arrived with LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html)
 - 2x 3pin ramps connector cables (1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
+- 18x 1pin dupont wire female-female 20cm (TMC2130 connections, some of the cables should come together with FYSETC TMC2130v1.1) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
 
 ## Other
-- 1x Laser cutted MK2Clone r2 frame, from 10mm plywood (can be also cnc cutted) (hard wood recommended)
+- 1x Laser cutted MK2Clone r2 frame, from 10mm plywood (can be also cnc cutted, hard wood recommended)
 - 1x Original E3Dv6 Full Metal hotend 12V 1,75mm Direct (with thermistor and heater) [E3D Online](https://e3d-online.com/v6)
 - 2x GT2 belt (around 2m will be enough) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
-- 3x goldpin (will be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
-- 18x 1pin dupont wire female-female 20cm (TMC2130 connections, 10cm cables can be not long enough) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
+- 3x goldpin (to be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
 - (at least) 25x zipties (2,5x160mm) [Ali](https://www.aliexpress.com/store/product/1000Pcs-pack-3-160mm-High-Quality-width-2-5mm-Black-Color-National-Standard-Self-locking-Plastic/2961243_32804581698.html)
 - (optional, but highly recommended) spiral wrap [Ali](https://www.aliexpress.com/item/New-Spiral-Cable-Wire-Wrap-Tube-Diameter-8mm-12-Meter-Part-PE-Manage-Cord-White-Black/32799682873.html)
-- (optional) heat-shrink tubings (a set of, in different sizes) [Ali1](https://www.aliexpress.com/store/product/Black-Color-150PCS-Polyolefin-2-1-Halogen-Free-Heat-Shrink-Tubing-Tube-Assortment-Sleeving-Wrap-Tubes/2961243_32811844132.html) [Ali2](https://www.aliexpress.com/item/127pcs-2-1-7-Sizes-Assortment-Polyolefin-Halogen-Free-Heat-Shrink-Tubing-Tube-Sleeving-Wire-Cable/32767906643.html) [Ali3](https://www.aliexpress.com/item/328Pcs-pack-Polyolefin-Assorted-Heat-Shrink-Tubing-Insulation-Shrinkable-Tube-Wrap-Wire-Cable/32824714170.html)
+- (optional) heat-shrink tubings (recommended a set of, in different sizes) [Ali1](https://www.aliexpress.com/store/product/Black-Color-150PCS-Polyolefin-2-1-Halogen-Free-Heat-Shrink-Tubing-Tube-Assortment-Sleeving-Wrap-Tubes/2961243_32811844132.html) [Ali2](https://www.aliexpress.com/item/127pcs-2-1-7-Sizes-Assortment-Polyolefin-Halogen-Free-Heat-Shrink-Tubing-Tube-Sleeving-Wire-Cable/32767906643.html) [Ali3](https://www.aliexpress.com/item/328Pcs-pack-Polyolefin-Assorted-Heat-Shrink-Tubing-Insulation-Shrinkable-Tube-Wrap-Wire-Cable/32824714170.html)
+- (optional) 4x felt pads
 
 ## Tools needed
 - soldering iron
@@ -129,3 +130,4 @@
 - set of screwdrivers and/or hex keys (depending on what screws are you using)
 - 13/17mm spanners
 - good scissors
+- isopropyl alcohol (IPA, to properly clean heatbed)
