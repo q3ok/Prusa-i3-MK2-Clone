@@ -82,7 +82,7 @@
 
 ### Motors
 - 3x Stepper motor NEMA17 17HS4401 (with 4pin connector cables) [Ali - SingaSong](https://www.aliexpress.com/store/product/3pcs-CE-certification-lead-Nema17-Stepper-Motor-42-motor-Nema-17-motor-42BYGH-1-7A-17HS4401/432672_32678690816.html)
-- 2x Stepper motor NEMA17 17HS4401 with trapezoidal screw Tr8x8, length between 300-320mm (with 4pin connector cables) [Ali](https://www.aliexpress.com/item/Free-shipping-2pcs-3D-printer-Nema17-17HS4401-T8-8-L300MM-Screw-Rod-Linear-Stepping-Motor-Z/32800493896.html)
+- 2x Stepper motor NEMA17 with trapezoidal screw Tr8x8, length between 300-320mm (with 4pin connector cables, make sure the screw are perfectly straight) [17HS3401 Ali - HANPOSE](https://www.aliexpress.com/item/Free-shipping-Nema17-17HS3401s-300mm-T8-8-Screw-Rod-Linear-Stepping-42-Motor-Z-Motor-with/32843544160.html) [17HS4401 Ali - HANPOSE](https://www.aliexpress.com/item/Free-shipping-2pcs-3D-printer-Nema17-17HS4401-T8-8-L300MM-Screw-Rod-Linear-Stepping-Motor-Z/32800493896.html) 
 
 ### Sensors
 - 1x Optical sensor ("improved" Gen7 Endstop v1.3.1, with cables) [Ali](https://www.aliexpress.com/item/Free-Shipping-6Pcs-Optical-Endstop-Light-Control-Limit-Optical-Switch-for-3D-Printers-RAMPS-1-4/32245549123.html)
@@ -120,7 +120,7 @@
 - 2x GT2 belt (around 2m will be enough) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-GT2-Synchronous-belt-width-6mm-Small-Backlash-2GT-6mm-Timing-belt-pulley-Linear-Motion-for/1740194984.html) [Ali - FYSETC](https://www.aliexpress.com/item/5m-lot-GT2-6mm-open-timing-belt-width-6mm-GT2-belt-Rubbr-Fiberglass-cut-to-length/32811832945.html)
 - 3x goldpin (to be soldered on DIAG1 of TMC2130) [Ali](https://www.aliexpress.com/item/20pcs-Single-Pin-Header-Gold-plated-Connectors-Gold-Plating-1x40-Row-2-54-Breakable-40-Pins/32687007496.html)
 - (at least) 25x zipties (2,5x160mm) [Ali](https://www.aliexpress.com/store/product/1000Pcs-pack-3-160mm-High-Quality-width-2-5mm-Black-Color-National-Standard-Self-locking-Plastic/2961243_32804581698.html)
-- (optional, but highlt recommended) COROpad Magnetic Flex 225x255 - flexible magnetic print surface, like on MK3 [COROpad contact](https://www.corotechnology.com/english/contact/)
+- (optional, but highly recommended) COROpad Magnetic Flex 225x255 - flexible magnetic print surface, like on MK3 [COROpad contact](https://www.corotechnology.com/english/contact/)
 - (optional, but highly recommended) spiral wrap [Ali](https://www.aliexpress.com/item/New-Spiral-Cable-Wire-Wrap-Tube-Diameter-8mm-12-Meter-Part-PE-Manage-Cord-White-Black/32799682873.html)
 - (optional) heat-shrink tubings (recommended a set of, in different sizes) [Ali1](https://www.aliexpress.com/store/product/Black-Color-150PCS-Polyolefin-2-1-Halogen-Free-Heat-Shrink-Tubing-Tube-Assortment-Sleeving-Wrap-Tubes/2961243_32811844132.html) [Ali2](https://www.aliexpress.com/item/127pcs-2-1-7-Sizes-Assortment-Polyolefin-Halogen-Free-Heat-Shrink-Tubing-Tube-Sleeving-Wire-Cable/32767906643.html) [Ali3](https://www.aliexpress.com/item/328Pcs-pack-Polyolefin-Assorted-Heat-Shrink-Tubing-Insulation-Shrinkable-Tube-Wrap-Wire-Cable/32824714170.html)
 - (optional) 4x felt pads
