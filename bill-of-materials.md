@@ -8,10 +8,10 @@
 - 1x y-motor-holder 
 - 1x y-idler
 - 2x y-rear-spacer
-- (optional, in case the frame is cutted from soft plywood) 4x y-axis-table-spacer
+- 4x y-bearing-holder
 
 ### X-axis
-- 1x x-carriage
+- 1x x-carriage (same material as extruder-body recommened)
 - 1x x-end-motor
 - 1x x-end-idler
 
@@ -24,7 +24,7 @@
 - 1x extruder-body (ABS suggested)
 - 1x extruder-idler (ABS suggested)
 - 1x extruder-cover (ABS suggested)
-- 1x fan-nozzle (ABS suggested)
+- 1x fan-nozzle OR 1x original-fan-nozzle (ABS suggested)
 - 1x cable-holder
 
 ### Electronics, LCD and power supply
@@ -94,8 +94,7 @@
 ### Base electronics
 - 1x Arduino Mega 2560 [Ali1](https://www.aliexpress.com/item/Free-Shipping-MEGA2560-R3-MEGA2560-REV3-ATMEGA2560-16AU-Board-USB-Cable-compatible-We-are-the-manufacturer/32513419382.html) [Ali2](https://www.aliexpress.com/item/2014-the-last-new-MEGA-2560-R3-development-board-FOR-arduino-an-improved-version/32247818078.html) [Ali - RobotDyn](https://www.aliexpress.com/item/Mega-2560-R3-CH340G-ATmega2560-16AU-MicroUSB-Compatible-for-Arduino-Mega-2560-With-Bootloader/32517341214.html)
 - 1x RAMPS 1.4 [Ali1](https://www.aliexpress.com/item/Free-shipping-RAMPS-1-4-3D-printer-control-panel-printer-Control-Reprap-MendelPrusa/32245490809.html) [Ali2](https://www.aliexpress.com/item/RAMPS-1-4-3D-printer-control-panel-printer-Control-Reprap-MendelPrusa/1999621647.html)
-- 3x TMC2130 v1.1 stepper motor driver (X, Y, E) [Ali - FYSETC 1pc](https://www.aliexpress.com/item/1pc-MKS-TMC2130-V1-0-New-TMC2130-V1-1-Stepstick-Stepper-Motor-Driver-SPI-With-Heat/32853263225.html) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2130-v1-1-TMC2130-New-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-With/32851428237.html)
-- 2x TMC2208 stepper motor driver (Z1, Z2) [Ali - FYSETC 1pc](https://www.aliexpress.com/item/TMC2100-V1-3-TMC2130-TMC2208-V1-0-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-And/32840768685.html) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2100-V1-3-TMC2130-TMC2208-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-For/32848553467.html)
+- 5x FYSETC TMC2130 v1.1 stepper motor driver (or any other TMC2130 with SPI bridge soldered) [Ali - FYSETC 5pcs](https://www.aliexpress.com/item/5PCS-TMC2130-v1-1-TMC2130-New-Stepper-Motor-StepStick-Mute-Driver-Silent-Excellent-Stability-Protection-With/32851428237.html)
 - 1x RepRap Discount Smart Controller LCD 2004 with ramps expansion [Ali1](https://www.aliexpress.com/item/3D-Printer-Kit-Reprap-Smart-Parts-Controller-Display-Reprap-Ramps-1-4-2004-LCD-LCD/32822928587.html) [Ali2](https://www.aliexpress.com/item/1-Pcs-LCD-Display-3D-Printer-Reprap-Smart-Controller-Reprap-Ramps-1-4-2004-LCD-Control/32814415276.html) [Ali3](https://www.aliexpress.com/item/Brand-New-Top-Quality-LCD-2004-Smart-Display-Controller-For-RAMPS-1-4-RepRap-3D-Printer/32785089586.html)
 - 1x Aluminium MK42 chinese clone (with cables, thermistor, screws, pillars and PEI sheet) [Ali](https://www.aliexpress.com/item/Reprap-Prusa-i3-MK2-MK2S-3d-printer-heated-bed-with-PEI-tape-aluminum-alloy-clone-compatible/32843210618.html)
 - (optional) 1x Ramps fan expansion RRD [Ali](https://www.aliexpress.com/item/1pc-Max-20V-3D-Printer-Reprap-RAMPS-1-4-RRD-Fan-Extender-Expansion-Modul-For-3D/32850915921.html)
@@ -112,7 +111,7 @@
 - 1x 2×0,5mm ~5m cable (for microswitches and fans)
 - 2x 70cm IDC 10 pin cable (optional, depending on the length of cables arrived with LCD) [Ali](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html) [Ali2](https://www.aliexpress.com/item/70CM-10-Pin-USB-ASP-ISP-JTAG-AVR-wire-10P-IDC-Flat-Ribbon-DATA-Cable-2/32278702964.html)
 - 2x 3pin ramps connector cables (1x for Z probe, 1x for optical sensor) [Ali](https://www.aliexpress.com/item/1lot-14PCS-Complete-Wiring-Cables-For-3D-Printer-Reprap-RAMPS-1-4-Endstops-Thermistors-Motor-littlebits/32353023542.html)
-- 18x 1pin dupont wire female-female 20cm (TMC2130 connections, some of the cables should come together with FYSETC TMC2130v1.1) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
+- 18x 1pin dupont wire female-female 20cm (TMC2130 connections, cables should came together with FYSETC TMC2130v1.1) [Ali](https://www.aliexpress.com/item/120pcs-Dupont-Wire-Male-to-Male-Male-to-Female-Female-to-Female-Jumper-Cable/32597266795.html)
 
 ## Other
 - 1x Laser cutted MK2Clone r2 frame, from 10mm plywood (can be also cnc cutted, hard wood recommended)
