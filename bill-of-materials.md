@@ -53,7 +53,7 @@
 - 1x 625ZZ or 625 2RS bearing [Ali - FUSHI](https://www.aliexpress.com/store/product/625RS-Bearing-ABEC-5-10PCS-5-16-5-mm-Miniature-Sealed-625-2RS-Ball-Bearings-625/511615_32802288535.html)
 - 2x GT2-16 idler pulley (bore 3mm) [Ali - POWGE](https://www.aliexpress.com/item/POWGE-2GT-16-Teeth-synchronous-Idler-Pulley-Bore-3mm-with-Bearing-for-Width-6MM-GT2-Timing/32796878074.html)
 - 2x GT2-16 pulley (bore 5mm) (make sure the pulleys doesn't have any looseness, because it will have impact on print quality) [Ali - POWGE](https://www.aliexpress.com/item/Freeshipping-40pcs-16teeth-GT2-Timing-Pulley-Bore-5mm-fit-for-width-6mm-of-2GT-Timing/1744808992.html)
-- 1x MK8 drive gear (for 1,75mm filament, bore 5mm) [Ali](https://www.aliexpress.com/item/XCR3D-3D-Printer-Extruder-accessories-MK8-Drive-Gear-Pulley-Reprap-1-75-Filament-Extrusion-wheel-Wire/32843999878.html)
+- 1x MK8 drive gear (for 1,75mm filament, bore 5mm)
 - 2x Spring dia. ~4,8mm, length 8mm [Ali](https://www.aliexpress.com/item/10pcs-3D-Printer-Platform-Supporting-Spring-Diameter-4-8mm-Length-8mm-Inelastic-State-FZ0631/32434037145.html)
 
 ### Screws, nuts and washers
