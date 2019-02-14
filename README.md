@@ -9,9 +9,9 @@
  * maximum hotend temperature: 295*C
  * maximum heatbed temperature: 110*C
  * printing from SD card or over USB
- * filament runout sensor
- * automatic bed leveling with fade height
- * X/Y sensorless homing
+ * filament runout sensor (experimental)
+ * automatic bed leveling with fade height (UBL)
+ * X/Y sensorless homing (TMC2130)
 
 ### Repository content
 
